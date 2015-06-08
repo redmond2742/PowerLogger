@@ -1,6 +1,11 @@
 /*
 -----This code is in the public domain free to use and remix----
 
+Resources
+http://www.hacktronics.com/Tutorials/arduino-current-sensor.html
+
+Uses the ACS715 Hall Effect Current Sensor
+
 */
 
 
