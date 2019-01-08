@@ -9,7 +9,6 @@ For Time.h library
 Download Time.zip (https://www.pjrc.com/teensy/td_libs_Time.html)
     Import: Arduino->Sketch->add .ZIP Library-> Select Time.zip from download
 Uses the ACS715 Hall Effect Current Sensor
-
 */
 
 
@@ -209,8 +208,3 @@ float watts = amps * batteryVoltage;
   
   delay(1000);
 }
-
-
-
-
-  
